@@ -26,3 +26,4 @@ Asegúrate de tener instaladas las dependencias necesarias. Puedes instalarlas u
 ```bash
 pip install -r requirements.txt
 ```
+### Recomiendo añadir el binario a una ruta relativa al $PATH
